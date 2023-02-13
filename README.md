@@ -43,4 +43,4 @@ Exercise 4: Create a button in the main page to add some Wish in _myWishes, this
 
 Exercise 5: Create an icon or a button to delete a Wish, this button should open a popup with 2 buttons to confirm or cancel the deletion of the Wish. If confirmed, the Wish must be removed of _myWishes.
     
-# Thank you for doing this workshop, and may the Wish List list be with you !
+# Thank you for doing this workshop !
